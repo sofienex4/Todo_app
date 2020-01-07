@@ -1,0 +1,65 @@
+.jumbotron{
+
+    background-color:#4696E5!important;
+}
+
+
+.form-control-lg {
+    width: 100%!important;
+    margin-bottom: 20px!important;
+}
+.display-4 {
+    text-align: end!important;
+}
+p {
+    text-align: end!important;
+
+}
+
+h2{
+    text-align: center;
+    color: cadetblue;
+}
+
+.delete-btn{
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.delete-btn2
+{
+    
+    background-color: green; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 10px;
+  
+    
+}
+
+
+.div-a
+{
+    display: flex;
+    justify-content: space-arsound ;
+}
+
+h5{
+    text-align: end;
+    margin-left: 50px;
+
+}
